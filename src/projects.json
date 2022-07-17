@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "title": "Together Fitness",
+        "image": "https://github.com/androneus14/My-Professional-Portfolio/blob/main/assets/images/togetherfitness-min.png",
+        "description": "A Workout and Social Application for everyday users.",
+        "githubLink": "https://github.com/androneus14/p2-t3-togetherfitness",
+        "deployedLink": "https://together-fitness.herokuapp.com/"
+    },
+
+    {
+        "id": 2,
+        "title": "Intellirecipe",
+        "image": "https://github.com/androneus14/My-Professional-Portfolio/blob/main/assets/images/intellirecipe.png",
+        "description": "Recipe Finding Application for food and cocktails.",
+        "githubLink": "https://github.com/RajNori/IntelliRecipe",
+        "deployedLink": "https://rajnori.github.io/IntelliRecipe/"
+    },
+
+    {
+        "id": 3,
+        "title": "Coding Quiz",
+        "image": "https://github.com/androneus14/My-Professional-Portfolio/blob/main/assets/images/codingquiz.png",
+        "description": "Test your knowledge in coding with this simple quiz!",
+        "githubLink": "https://github.com/androneus14/Code-Quiz",
+        "deployedLink": "https://androneus14.github.io/Code-Quiz/"
+    },
+
+    {
+        "id": 4,
+        "title": "Password Generator",
+        "image": "https://github.com/androneus14/My-Professional-Portfolio/blob/main/assets/images/passwordgenerator.png",
+        "description": "Create a random password based on specifications you choose!",
+        "githubLink": "https://github.com/androneus14/Code-Quiz",
+        "deployedLink": "https://androneus14.github.io/Password-Generator/"
+    },
+
+    {
+        "id": 5,
+        "title": "Work Day Scheduler",
+        "image": "https://github.com/androneus14/My-Professional-Portfolio/blob/main/assets/images/worddayschedular.png",
+        "description": "Keep track of your busy day with this nifty app!",
+        "githubLink": "https://github.com/androneus14/Work-Day-Scheduler",
+        "deployedLink": "https://androneus14.github.io/Work-Day-Scheduler/"
+    },
+
+    {
+        "id": 4,
+        "title": "",
+        "image": "",
+        "description": "",
+        "githubLink": "",
+        "deployedLink": ""
+    },
+
+    {
+        "id": 5,
+        "title": "",
+        "image": "",
+        "description": "",
+        "githubLink": "",
+        "deployedLink": ""
+    }
+]
